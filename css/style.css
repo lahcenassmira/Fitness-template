@@ -391,3 +391,12 @@ footer::before {
     margin-top: 0 !important;
   }
 }
+#logo{
+  width: 100%;
+  max-width: 60px;
+ 
+}
+#unique{
+  width: 100%;
+  max-width: 200px;
+}
